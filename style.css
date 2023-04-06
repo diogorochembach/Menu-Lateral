@@ -56,7 +56,7 @@ body {
 
 .navigation ul li a .icon {
   position: relative;
-  display: flex;
+  display: block;
   min-width: 60px;
   height: 60px;
   text-align: center;
@@ -67,7 +67,6 @@ body {
   position: relative;
   font-size: 1.5rem;
   z-index: 1;
-  text-align: center;
 }
 
 .navigation ul li a .title {
@@ -98,11 +97,11 @@ body {
 .navigation ul li.active a::after {
   content: "";
   position: absolute;
-  top: -30px;
+  bottom: -30px;
   right: 0;
   width: 30px;
   height: 30px;
   background-color: #424242;
   border-radius: 50px;
-  box-shadow: 15px 15px 0 #099c22;
+  box-shadow: 15px -15px 0 #099c22;
 }

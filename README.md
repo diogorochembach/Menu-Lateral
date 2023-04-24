@@ -8,8 +8,8 @@
 <br>
 <br>
 <br>
-
-<img src="https://github.com/diogorochembach/Ping-Pong-DEV/blob/main/assets/telaPingPong.png?raw=true" />
+<img src="https://github.com/diogorochembach/Menu-Lateral/blob/main/assets/Menu%20Fechado.png?raw=true~" />
+<img src="https://github.com/diogorochembach/Menu-Lateral/blob/main/assets/Menu%20aberto.png?raw=true" />
 <br>
 
 
